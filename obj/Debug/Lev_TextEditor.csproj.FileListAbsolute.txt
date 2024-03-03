@@ -1,0 +1,10 @@
+D:\Проекты Visual Studio\Чепкова\Lev_TextEditor\Lev_TextEditor\bin\Debug\Lev_TextEditor.exe.config
+D:\Проекты Visual Studio\Чепкова\Lev_TextEditor\Lev_TextEditor\bin\Debug\Lev_TextEditor.exe
+D:\Проекты Visual Studio\Чепкова\Lev_TextEditor\Lev_TextEditor\bin\Debug\Lev_TextEditor.pdb
+D:\Проекты Visual Studio\Чепкова\Lev_TextEditor\Lev_TextEditor\obj\Debug\Lev_TextEditor.csproj.AssemblyReference.cache
+D:\Проекты Visual Studio\Чепкова\Lev_TextEditor\Lev_TextEditor\obj\Debug\Lev_TextEditor.csproj.SuggestedBindingRedirects.cache
+D:\Проекты Visual Studio\Чепкова\Lev_TextEditor\Lev_TextEditor\obj\Debug\Lev_TextEditor.Properties.Resources.resources
+D:\Проекты Visual Studio\Чепкова\Lev_TextEditor\Lev_TextEditor\obj\Debug\Lev_TextEditor.csproj.GenerateResource.cache
+D:\Проекты Visual Studio\Чепкова\Lev_TextEditor\Lev_TextEditor\obj\Debug\Lev_TextEditor.csproj.CoreCompileInputs.cache
+D:\Проекты Visual Studio\Чепкова\Lev_TextEditor\Lev_TextEditor\obj\Debug\Lev_TextEditor.exe
+D:\Проекты Visual Studio\Чепкова\Lev_TextEditor\Lev_TextEditor\obj\Debug\Lev_TextEditor.pdb
